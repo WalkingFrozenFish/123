@@ -12,3 +12,6 @@ style.css       | Файл каскадной таблицы стилей
 normalize.css   | Нормалайзер CSS от Nicolas Gallagher
 index.html      | Индексный файл
 main.js         | Файл скрипта
+
+## Скриншот проекта
+![Скриншот](https://github.com/WalkingFrozenFish/slider/blob/main/images/slider.jpg)
